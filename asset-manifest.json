@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TextAnalyzer-React/static/css/main.559e78e7.chunk.css",
-    "main.js": "/TextAnalyzer-React/static/js/main.1239a832.chunk.js",
-    "main.js.map": "/TextAnalyzer-React/static/js/main.1239a832.chunk.js.map",
+    "main.js": "/TextAnalyzer-React/static/js/main.fe2123b2.chunk.js",
+    "main.js.map": "/TextAnalyzer-React/static/js/main.fe2123b2.chunk.js.map",
     "runtime-main.js": "/TextAnalyzer-React/static/js/runtime-main.a0f57d1b.js",
     "runtime-main.js.map": "/TextAnalyzer-React/static/js/runtime-main.a0f57d1b.js.map",
     "static/js/2.3693555b.chunk.js": "/TextAnalyzer-React/static/js/2.3693555b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a0f57d1b.js",
     "static/js/2.3693555b.chunk.js",
     "static/css/main.559e78e7.chunk.css",
-    "static/js/main.1239a832.chunk.js"
+    "static/js/main.fe2123b2.chunk.js"
   ]
 }
