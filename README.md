@@ -1,3 +1,5 @@
+Here's the link: https://jai-10.github.io/TextAnalyzer-React/
+
 TextAnalyzer-React is my first react application.
 I'm a CSE student and this will be one of many projects that'll be hosted here.
 
